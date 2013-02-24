@@ -1,0 +1,16 @@
+Annual Interest Rate: 423.00, Number of years:432.00, Loan Amount: 4321.00 BGN, monthly payment in BGN: 1523.15
+
+Annual Interest Rate: 12.00, Number of years:12.00, Loan Amount: 123.00 BGN, monthly payment in BGN: 1.62
+
+Annual Interest Rate: 32.00, Number of years:432.00, Loan Amount: 12312.00 BGN, monthly payment in BGN: 328.32
+
+Annual Interest Rate: 32.00, Number of years:321.00, Loan Amount: 421.00 BGN, monthly payment in BGN: 11.23
+
+Annual Interest Rate: 32.00, Number of years:32143.00, Loan Amount: 421.00 BGN, monthly payment in BGN: 11.23
+
+Annual Interest Rate: 12.00, Number of years:1.00, Loan Amount: 4325.00 BGN, monthly payment in BGN: 384.27
+
+Annual Interest Rate: 32.00, Number of years:4321.00, Loan Amount: 5321543.00 BGN, monthly payment in BGN: 141907.81
+
+Annual Interest Rate: 432.00, Number of years:423.00, Loan Amount: 435325.00 BGN, monthly payment in BGN: 156717.00
+

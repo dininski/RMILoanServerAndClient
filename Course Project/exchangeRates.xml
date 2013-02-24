@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<exchangeRates>
+	<currencyCode>
+		<currency>USD</currency>
+		<inBGN>1.45479938</inBGN>
+	</currencyCode>
+	<currencyCode>
+		<currency>BGN</currency>
+		<inBGN>1</inBGN>
+	</currencyCode>
+	<currencyCode>
+		<currency>EURO</currency>
+		<inBGN>1.95</inBGN>
+	</currencyCode>
+	<currencyCode>
+		<currency>RUB</currency>
+		<inBGN>0.05</inBGN>
+	</currencyCode>
+	<currencyCode>
+		<currency>AUD</currency>
+		<inBGN>1.51</inBGN>
+	</currencyCode>
+	<currencyCode>
+		<currency>ZAR</currency>
+		<inBGN>0.17</inBGN>
+	</currencyCode>
+	<currencyCode>
+		<currency>CYN</currency>
+		<inBGN>0.23</inBGN>
+	</currencyCode>
+	<currencyCode>
+		<currency>TRY</currency>
+		<inBGN>0.83</inBGN>
+	</currencyCode>
+</exchangeRates>
